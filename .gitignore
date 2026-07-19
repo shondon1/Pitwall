@@ -1,0 +1,12 @@
+# Virtual environment — recreated with venv, never committed
+venv/
+
+# FastF1 data cache — hundreds of MB of downloaded telemetry
+cache/
+
+# Python junk files
+__pycache__/
+*.pyc
+
+# macOS junk
+.DS_Store
